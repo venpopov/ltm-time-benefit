@@ -40,7 +40,7 @@ The project is organized in the following main folders:
 
 ## Website navigation
 
-You can find the rendered reports on the [project website](venpopov.github.io/ltmTimeBenefit/). The website is organized in the following sections:
+You can find the rendered reports on the [project website](https://venpopov.github.io/ltm-time-benefit/). The website is organized in the following sections:
 
 - **Development notes:** an unorganized collection of notebooks. These are mostly for my own reference during model development.
 - **Notebooks:** a collection of notebooks that are more organized and presentable. These are intended to be shared with others.
